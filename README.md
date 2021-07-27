@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikithapatre
 - 👀 I am a passionate, self-motivated front-end web developer.
-- 🌱 I’m currently looking for entry-level front end web developer to build my career
+- 🌱 I’m currently looking for junior front end web developer to build my career
 - 📫 How to reach me ... 
 Cell: 385-313-7390
 email: patrenikitha@gmail.com
