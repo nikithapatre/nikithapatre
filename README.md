@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikithapatre
-- 👀 I am a passionate, self-motivated Software Front-end Developer.
+- 👀 I am a passionate, self-motivated Software Front-end Engineer.
 - 🌱 I’m currently looking for front end developer role. 
 - 📫 How to reach me ... 
 Cell: 385-313-7390
