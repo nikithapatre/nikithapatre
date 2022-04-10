@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nikithapatre
-- 👀 I am a passionate, self-motivated Software Front-end Engineer.
-- 🌱 I’m currently looking for front end developer role. 
+- 👀 I am a passionate, self-motivated Software Front-end Developer.
+- 🌱 I’m currently looking for Frontend Developer UI role. 
 - 📫 How to reach me ... 
-Cell: 385-313-7390
+Cell: 385-313-7390 | 917-854-5140
 email: patrenikitha@gmail.com
 linkedin: Nikhitha Patre
 <!---
